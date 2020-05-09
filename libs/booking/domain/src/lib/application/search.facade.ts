@@ -20,7 +20,7 @@ export class SearchFacade {
                 this.flightListSubject.next(flightList)
             },
             err => {
-                console.error('err', err);
+                console.error('error', err);
             }
         );
     }

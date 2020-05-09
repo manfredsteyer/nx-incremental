@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { BookingDomainModule } from '@nx-flights/booking/domain';
+import { BookingDomainModule } from '@nx-flights/booking-domain';
 import { SearchComponent } from './search.component';
 
 @NgModule({

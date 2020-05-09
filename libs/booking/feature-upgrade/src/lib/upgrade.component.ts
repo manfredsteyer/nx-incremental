@@ -1,5 +1,5 @@
 import { Component, OnInit} from '@angular/core';
-import { UpgradeFacade } from '@nx-flights/booking/domain';
+import { UpgradeFacade } from '@nx-flights/booking-domain';
 
 @Component({
   selector: 'booking-upgrade',

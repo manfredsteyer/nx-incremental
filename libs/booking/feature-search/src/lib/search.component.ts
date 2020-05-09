@@ -1,5 +1,5 @@
 import { Component, OnInit} from '@angular/core';
-import { SearchFacade } from '@nx-flights/booking/domain';
+import { SearchFacade } from '@nx-flights/booking-domain';
 
 @Component({
   selector: 'booking-search',
